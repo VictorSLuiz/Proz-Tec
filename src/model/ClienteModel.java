@@ -1,6 +1,10 @@
 package model;
 
 public class ClienteModel {
-    public any login() {}
-    public  any buscarPedidos() {}
+    public char login() {
+        return 'a';
+    }
+    public char buscarPedidos() {
+        return 'a';
+    }
 }
